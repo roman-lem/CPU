@@ -1,0 +1,15 @@
+push 10
+push 10
+sub
+push 4
+mul
+push -2
+add
+push 0
+mul
+push -666
+sub
+push 6
+div
+pop 1
+end
